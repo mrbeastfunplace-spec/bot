@@ -47,7 +47,7 @@ POLLING_LOCK_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".p
 CARD_NUMBER = "9860100126034816"
 CLICK_NUMBER = "+998"
 USDT_TRC20_ADDRESS = "TUr3m7sAWpiysQs5S1jQkbxcvJARqAD8Rs"
-CLICK_QR_IMAGE_PATH = r"C:/bot/subnowa_bot/media/click.png.jpg"
+CLICK_QR_IMAGE_PATH = "click.png.jpg"
 
 CHATGPT_PLUS_PRICE_UZS = 99000
 CAPCUT_PRO_PRICE_UZS = 49000
